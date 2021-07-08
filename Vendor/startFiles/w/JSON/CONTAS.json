@@ -1,0 +1,36 @@
+{
+  "Bancos": {
+        "104": "Caixa",
+        "184": "Itau",
+        "237": "Bradesco",
+        "336": "C6",
+        "623": "PAN",
+        "900": "Paypal",
+        "001": "BBrasil",
+        "000": "Ticket",
+        "033": "superDigital"
+  },
+  "Conta":{
+    "ID":0,
+    "Banco":"",
+    "Nome":"",
+    "Tipo": ["JOB","PERSON","HOME"],
+    "Valor":0,
+    "Dia":"20/mm/aaaa"
+  },
+  "Lancamentos":{
+    "IDConta":"",
+    "Descricao":"",
+    "Dia":"",
+    "Valor":0,
+    "Vencimento":"",
+    "Pago":0,
+    "Banco":""
+  },
+  "function":{
+    "Inserir":"",
+    "Pagar":"",
+    "Justificar":"",
+    "Abonar":""
+  }
+}

@@ -1,0 +1,24 @@
+=====================================
+-> Leiame
+
+Comandos:
+
+info     - > Exibe está tela.              
+config   - > Conteudo arquivo config.
+clear    - > Apaga todo APP execeto BuilderAPP.php.
+create   - > Cria uma novo APP.
+clone    - > Clona APP para um novo APP.
+update   - > Atualiza pasta vendor APP.
+Remenber - > Executa o ultimo comando.
+
+Sintaxe BuilderAPP.php [Comando]
+
+Altera constante no arquivo config.php.
+
+constante:valor
+
+Sintaxe BuilderAPP.php Author:BAPP
+
+=====================================
+
+

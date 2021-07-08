@@ -1,0 +1,15 @@
+<style>
+  thead tr {background-color: ActiveCaption; color: CaptionText;}
+  th, td {vertical-align: top; font-family: "Tahoma", Arial, Helvetica, sans-serif; font-size: 8pt; padding: 3px; }
+  table, td {border: 1px solid silver;}
+  table {border-collapse: collapse;}
+  thead .col0 {width: 91px;}
+  .col0 {text-align: right;}
+  thead .col1 {width: 77px;}
+  .col1 {text-align: right;}
+  thead .col2 {width: 219px;}
+  thead .col3 {width: 110px;}
+  thead .col4 {width: 259px;}
+  thead .col5 {width: 64px;}
+  .col5 {text-align: right;}
+</style>	

@@ -1,0 +1,36 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<center>
+<section>
+	<fieldset>
+		<legend><h2>=TITLE</h2></legend>
+			<form id="LOGIN">
+				<h2>LOGIN</h2>
+				<input type="text" name="RUN" value="Auth" hidden>
+				<label for="USER">User</label><br>
+				<input type="text" name="USER" value="=USER"><br>
+				<label for="PWS">Password</label><br>
+				<input type="Password" name="PWS"><br>
+
+				<input type="submit" name="submit" value="Submit"
+				formaction="Login"
+				formmethod="POST" 
+				form="LOGIN">
+				<!--
+					<input type="submit" name="submit" value="Submit"
+					formaction="Login"
+					formmethod="POST" 
+					formtarget="resp" 
+					form="LOGIN">
+					</form>
+					<iframe name="resp" frameborder="none" 
+						style="text-align: center;width: 400px;height: 120px;border: none;">
+					</iframe>
+				-->			
+	</fieldset>
+</section>
+
+<input type="button" name="back" onclick="window.history.go(-1);" value="Back">
+
+</center>
