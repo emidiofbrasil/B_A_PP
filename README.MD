@@ -1,6 +1,6 @@
 <meta charset="utf-8">
 
-Start Github
+Start BAPP
 ===
 
 BAPP - Builder Application
@@ -46,6 +46,10 @@ Como Fazer
 
 	As palavras que serão reiderizadas, devem estar em maiusculas iniciada pelo
 	sinal de igual [=]. Exemplos  =NAME, =SALARY.
+
+	Executar Servidor PHP na pasta do B_A_PP
+
+	php -S localhost:8090
 
 Estrutura  - tree /F /A
 ---

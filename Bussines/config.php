@@ -14,7 +14,7 @@ define('Author','Programador');
 define('VersionBussines','01.01.01');
 define('CDN','http://localhost/cdn');
 define('IPServer','127.0.0.1');
-define('PortServer','80');
+define('PortServer','8090');
 define('server','http://localhost/home/B_A_PP/'.Folder);
 define('domain','http://localhost/home/B_A_PP/'.Folder);
 define('MySQL','localhost');
