@@ -17,6 +17,7 @@ Versões
 	|Maior|Menor|Correção| Infomação
 	|-----|-----|--------|------------
 	|  001|  001|     001| Inicio   
+	|  001|  001|     002| Note asusLinuxMINT
 
 Descrições
 ---
