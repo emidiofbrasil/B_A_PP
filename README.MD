@@ -18,7 +18,7 @@ Versões
 	|-----|-----|--------|------------
 	|  001|  001|     001| Inicio   
 	|  001|  001|     002| Note asusLinuxMINT
-	|  001|  001|     002| Note asusLinuxMINT with VS-CODE
+	|  001|  001|     002| Note asusLinuxMINT save	
 
 Descrições
 ---
