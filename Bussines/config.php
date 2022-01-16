@@ -20,7 +20,7 @@ define('domain','http://localhost/home/B_A_PP/'.Folder);
 define('MySQL','localhost');
 define('db','tkinact');
 define('user','root');
-define('pws','masterkey');
+define('pws','oidime');
 define('Pages',["none"]);
 // @Message
 define('err_001_Database','No data!');
